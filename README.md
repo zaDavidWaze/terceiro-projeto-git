@@ -42,3 +42,14 @@
 | ------ | ----------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | ----------- |
 | 5.1    | Documentação final      | Elaborar documentação técnica e de usuário do sistema.                                             | Ferramentas de documentação                        | Documentação completa e aprovada pela equipe       |             |
 | 5.2    | Reunião de encerramento | Realizar reunião final com a equipe e stakeholders para apresentar resultados e lições aprendidas. | Sala de reunião, apresentações, materiais de apoio | Registro da reunião com feedback dos participantes |             |
+
+
+
+
+
+
+
+
+
+
+..
