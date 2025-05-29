@@ -88,7 +88,8 @@
 | F2 | Login de Usuário            | Implementar funcionalidade de login para usuários cadastrados, com autenticação segura.     | Formulário de login, sistema de autenticação | Usuário autenticado com sucesso, acesso concedido ao painel principal      |             |
 | F3 | Recuperação de Senha        | Oferecer opção para recuperação de senha através de e-mail.                                 | Sistema de envio de e-mails                  | E-mail enviado com sucesso, link de recuperação funcional                  |             |
 | F4 | Perfil de Usuário           | Permitir que o usuário visualize e edite suas informações pessoais e de contato.            | Interface de perfil, banco de dados          | Informações atualizadas corretamente, alterações refletidas no sistema     |             |
-| F5 | Dashboard de Acompanhamento | Desenvolver painel inicial com resumo das atividades e status do usuário.                   | Interface gráfica, banco de dados            | Painel carregado com dados atualizados e informações relevantes            |             |
+| F5 | Dashboard Administrativa | Desenvolver painel inicial com resumo das atividades e status do usuário.                   | Interface gráfica, banco de dados            | Painel carregado com dados atualizados e informações relevantes            |             |
+
 
 
 ## **🔝 Prioridade: Média**
@@ -104,5 +105,3 @@
 | ID  | Funcionalidade               | Descrição                                                      | Recursos Necessários                        | Critérios de Aceitação                                                               | Responsável           |
 | --- | ---------------------------- | -------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------ | --------------------- |
 | F9  | Integração com Redes Sociais | Implementar login e compartilhamento através de redes sociais. | APIs de redes sociais                       | Integração funcionando corretamente, login e compartilhamento realizados com sucesso |                       |
-| F10 | Suporte a Idiomas Diversos   | Oferecer suporte multilíngue no sistema.                       | Arquivos de tradução, interface multilíngue | Sistema exibindo corretamente em diferentes idiomas selecionados                     |                       |
-
