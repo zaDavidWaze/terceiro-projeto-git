@@ -1,3 +1,5 @@
+**📘 Dicionário da EAP**
+
 | Código | Pacote de Trabalho              | Descrição                                                                                                         | Recursos Necessários                       | Critérios de Aceitação                                                           |
 | ------ | ------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------- |
 | 1.1    | Entrevistas com usuários        | Realizar entrevistas com os usuários finais para entender suas necessidades e expectativas em relação ao sistema. | Sala de reunião, gravador de áudio         | Relatório com transcrição das entrevistas e análise das informações coletadas    |
