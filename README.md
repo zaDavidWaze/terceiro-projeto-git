@@ -89,3 +89,12 @@
 | F3 | Recuperação de Senha        | Oferecer opção para recuperação de senha através de e-mail.                                 | Sistema de envio de e-mails                  | E-mail enviado com sucesso, link de recuperação funcional                  |             |
 | F4 | Perfil de Usuário           | Permitir que o usuário visualize e edite suas informações pessoais e de contato.            | Interface de perfil, banco de dados          | Informações atualizadas corretamente, alterações refletidas no sistema     |             |
 | F5 | Dashboard de Acompanhamento | Desenvolver painel inicial com resumo das atividades e status do usuário.                   | Interface gráfica, banco de dados            | Painel carregado com dados atualizados e informações relevantes            |             |
+
+
+## **🔝 Prioridade: Média**
+
+| ID | Funcionalidade          | Descrição                                                                            | Recursos Necessários                       | Critérios de Aceitação                                                | Responsável        |
+| -- | ----------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------ | --------------------------------------------------------------------- | ------------------ |
+| F6 | Notificações por E-mail | Implementar envio de notificações por e-mail para eventos importantes no sistema.    | Sistema de envio de e-mails                | E-mails enviados corretamente, com conteúdo adequado e sem erros      |                    |
+| F7 | Histórico de Atividades | Registrar e exibir histórico de ações realizadas pelo usuário no sistema.            | Banco de dados, interface de histórico     | Histórico completo e preciso, com filtros e ordenação funcionais      |                    |
+| F8 | Configurações de Conta  | Permitir que o usuário altere configurações de sua conta, como senha e preferências. | Interface de configurações, banco de dados | Configurações alteradas com sucesso, alterações refletidas no sistema |                    |
