@@ -98,3 +98,11 @@
 | F6 | Notificações por E-mail | Implementar envio de notificações por e-mail para eventos importantes no sistema.    | Sistema de envio de e-mails                | E-mails enviados corretamente, com conteúdo adequado e sem erros      |                    |
 | F7 | Histórico de Atividades | Registrar e exibir histórico de ações realizadas pelo usuário no sistema.            | Banco de dados, interface de histórico     | Histórico completo e preciso, com filtros e ordenação funcionais      |                    |
 | F8 | Configurações de Conta  | Permitir que o usuário altere configurações de sua conta, como senha e preferências. | Interface de configurações, banco de dados | Configurações alteradas com sucesso, alterações refletidas no sistema |                    |
+
+## **🔝 Prioridade: Baixa**
+
+| ID  | Funcionalidade               | Descrição                                                      | Recursos Necessários                        | Critérios de Aceitação                                                               | Responsável           |
+| --- | ---------------------------- | -------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------ | --------------------- |
+| F9  | Integração com Redes Sociais | Implementar login e compartilhamento através de redes sociais. | APIs de redes sociais                       | Integração funcionando corretamente, login e compartilhamento realizados com sucesso |                       |
+| F10 | Suporte a Idiomas Diversos   | Oferecer suporte multilíngue no sistema.                       | Arquivos de tradução, interface multilíngue | Sistema exibindo corretamente em diferentes idiomas selecionados                     |                       |
+
